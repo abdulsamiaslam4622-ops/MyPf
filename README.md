@@ -1,4 +1,4 @@
-<img width="1194" height="896" alt="Gemini_Generated_Image_tgiswqtgiswqtgis" src="https://github.com/user-attachments/assets/af37101b-3a94-4547-9333-60689cd559d9" /><div align="center">
+<div align="center">
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 <!--                    CINEMATIC HEADER                        -->
@@ -29,8 +29,13 @@
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 <!--                       ABOUT ME                             -->
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<img width="1194" height="896" alt="Gemini_Generated_Image_tgiswqtgiswqtgis" src="https://github.com/user-attachments/assets/c942a18b-2aee-4c0b-8840-7b8d04d7067c" />
 
+<img 
+  align="right" 
+  alt="Moving Developer Animation" 
+  width="330" 
+  src="path/to/your/boy_developer_animation.gif" 
+/>
 
 ### ◈ &nbsp; The Engineer Behind the Code
 
@@ -58,7 +63,6 @@ const abdulSami: Engineer = {
   funFact      : "I treat code reviews like fine dining — every detail matters 🍽️",
 };
 ```
-
 
 <br clear="right"/>
 

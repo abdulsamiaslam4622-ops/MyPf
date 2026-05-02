@@ -30,14 +30,7 @@
 <!--                       ABOUT ME                             -->
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-<img 
-  align="right" 
-  alt="Moving Developer Animation" 
-  width="330" 
-  src="path/to/your/boy_developer_animation.gif" 
-/>
-
-### ◈ &nbsp; The Engineer Behind the Code
+<img align="right" alt="Developer Animation" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ3bm5oZzR4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```typescript
 const abdulSami: Engineer = {
